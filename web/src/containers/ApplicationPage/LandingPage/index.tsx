@@ -15,8 +15,8 @@ import {
     ProgressBar,
 } from "ignite-components";
 import * as fs from "fs";
-import sad from "./sad.jpg";
-import sad2 from "./sad2.jpg";
+import sad from "../../../assets/images/sad.jpg";
+import sad2 from "../../../assets/images/sad2.jpg";
 
 interface State {
     loading: boolean;
